@@ -1,5 +1,5 @@
 # Health_Data_Analysis
-Student Health Data Analysis using SAS
+Students Health Data Analysis using SAS
 
 Health_Data_Analysis is a data processing and analysis project that integrates data from historical records, statistics, and student information to derive meaningful insights. The project, implemented in SAS, performs various steps such as importing data from Excel sheets, cleaning, formatting, stacking and sorting data, merging tables, converting units to the metric system, creating new variables, and visualizing results.
 
